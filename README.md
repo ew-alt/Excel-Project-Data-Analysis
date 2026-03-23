@@ -7,5 +7,4 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 <img width="1299" height="567" alt="Screenshot 2026-03-23 213908" src="https://github.com/user-attachments/assets/c284c269-3dbf-4989-986b-4225eb0386be" />
 
-## Salary Analysis  
 
